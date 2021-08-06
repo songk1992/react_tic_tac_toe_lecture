@@ -1,3 +1,36 @@
+# 리액트 틱택토 강좌
+
+리액트 공식문서를 참조 및 번역해서 리액트 기초 강의를 만들었습니다.
+
+블로그를 보고 차근 차근 따라오시면 됩니다.
+
+
+<table>
+<tr>
+  <td> 1강 </td>
+  <td> 설치하기 </td>
+  <td> https://codemasterkimc.tistory.com/54 </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
