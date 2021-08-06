@@ -8,8 +8,13 @@
 <table>
 <tr>
   <td> 1강 </td>
-  <td> 설치하기 </td>
+  <td> 리액트 설치하기 </td>
   <td> https://codemasterkimc.tistory.com/54 </td>
+</tr>
+<tr>
+  <td> 2강 </td>
+  <td> Virtual DOM 조작 및 화면 지우기 </td>
+  <td> https://codemasterkimc.tistory.com/55 </td>
 </tr>
 </table>
 
