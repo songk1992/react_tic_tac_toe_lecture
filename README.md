@@ -45,6 +45,12 @@
   <td> 플레이어 순서 정하기 </td>
   <td> https://codemasterkimc.tistory.com/61 </td>
 </tr>
+<tr>
+  <td> 9강 </td>
+  <td> 승자 정하기 </td>
+  <td> https://codemasterkimc.tistory.com/62 </td>
+</tr>
+
 </table>
 
 # 참조 및 인용
