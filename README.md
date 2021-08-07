@@ -40,6 +40,11 @@
   <td> function components에 대해서 알아보기 </td>
   <td> https://codemasterkimc.tistory.com/60 </td>
 </tr>
+<tr>
+  <td> 8강 </td>
+  <td> 플레이어 순서 정하기 </td>
+  <td> https://codemasterkimc.tistory.com/61 </td>
+</tr>
 </table>
 
 # 참조 및 인용
