@@ -30,6 +30,11 @@
   <td> 상호작용하는 Component 만들기 </td>
   <td> https://codemasterkimc.tistory.com/58 </td>
 </tr>
+<tr>
+  <td> 6강 </td>
+  <td> controlled components에 대해서 알아보기 </td>
+  <td> https://codemasterkimc.tistory.com/59 </td>
+</tr>
 </table>
 
 # 참조 및 인용
