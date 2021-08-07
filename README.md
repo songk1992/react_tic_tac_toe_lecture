@@ -20,7 +20,11 @@
   <td> React Component 만들기 </td>
   <td> https://codemasterkimc.tistory.com/56 </td>
 </tr>
-
+<tr>
+  <td> 4강 </td>
+  <td> Props를 통한 데이터 전달 </td>
+  <td> https://codemasterkimc.tistory.com/57 </td>
+</tr>
 </table>
 
 # 참조 및 인용
