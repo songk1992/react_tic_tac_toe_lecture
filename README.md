@@ -35,6 +35,11 @@
   <td> controlled components에 대해서 알아보기 </td>
   <td> https://codemasterkimc.tistory.com/59 </td>
 </tr>
+<tr>
+  <td> 7강 </td>
+  <td> function components에 대해서 알아보기 </td>
+  <td> https://codemasterkimc.tistory.com/60 </td>
+</tr>
 </table>
 
 # 참조 및 인용
